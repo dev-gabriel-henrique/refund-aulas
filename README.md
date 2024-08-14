@@ -1,10 +1,11 @@
-# <center> REFUND - SITE DE DESPESAS &nbsp;&nbsp; <br><br> ![logo refund](./img/logo.svg) </center>
+# <div align="center"> REFUND - SITE DE DESPESAS &nbsp;&nbsp; <br><br> ![logo refund](./img/logo.svg) </div> #
 
-<center> Site Refund feito junto as aulas da Rocketseat para praticar tudo que foi aprendido no modulo de Javascript Intermediário do curso Fullstack. 
+<div align="center"> Site Refund feito junto as aulas da Rocketseat para praticar tudo que foi aprendido no modulo de Javascript Intermediário do curso Fullstack. 
 <br>
 <br>
 
-  [Projeto](#-projeto) &nbsp; | &nbsp; [Aprendizado](#-aprendizado) &nbsp;&nbsp;| &nbsp;&nbsp; [Tecnologia](#-tecnologia) &nbsp;&nbsp; </center>
+  [Projeto](#-projeto) &nbsp; | &nbsp; [Aprendizado](#-aprendizado) &nbsp; | &nbsp; [Tecnologias](#-tecnologias) &nbsp;
+  </div>
 
 ![imagem da tela inicial do site](./img/capa.png)
 <br>
